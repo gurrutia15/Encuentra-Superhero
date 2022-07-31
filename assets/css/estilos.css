@@ -1,0 +1,22 @@
+#heroeNombre{
+    font-size: 16px;
+}
+
+#heroeInfo{
+    font-size: 12px;
+}
+
+
+#heroefoto{
+    padding: 1rem;
+    
+}
+
+#heroeImg{
+    height: 45vh;
+}
+
+#sinEstadisticas{
+    color: red;
+    text-align: center
+}
